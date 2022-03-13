@@ -14,7 +14,7 @@ The goal of this document is to instruct and teach computer science students on 
 - [FAQs](#faqs)
 ---
 ## **Documentation Tools**
-Welcome to the *Modern Technical Writing*! This guide will follow Andrew Etter's guidelines for creating software documentation as outlined in his book *Modern Technical Writing*. To understand the tools Etter recommends that are used throughout this guide, below is a description of each tool.   
+Welcome to the *Modern Technical Writing*! This tutorial will follow Andrew Etter's guidelines for creating software documentation as outlined in his book *Modern Technical Writing*. To understand the tools Etter recommends that are used throughout this guide, below is a description of each tool.   
  
  **Markdown**
 
@@ -65,7 +65,7 @@ This is where you are going to store and host your resume. GitHub provides users
 5. Select `[Public]`
 6. Click on `[Create repository]`
 
-### Next, add your Markdown Formatted Resume to GitHub
+### Next, Add your Markdown Formatted Resume to GitHub
 Markdown is one of the documentation tools recommended in Etter's book. It provides users with a simple and easy way to write and format text documents that can be published to the web in HTML. Once you try Markdown, you will never want to use *Word* again. 
 1. Click on `[Addfile]`
 2. Select `[Create new file]`,located under the drop-down menu
@@ -73,17 +73,17 @@ Markdown is one of the documentation tools recommended in Etter's book. It provi
 4. Press enter
 5. Copy and Paste your saved Markdown- formatted resume into the blank text area
 6. Select `[Commit new file]`, which is located at the bottom right of the page
-#### To verify and view your Markdown Resume try this:
+#### To Verify and View your Markdown Resume try this:
 7. Click on the `[index.md]` in your repository **OR**
 8. Enter `[http://YourUserName.github.io/]`
 
-### Next, build a Static Website with GitHub Pages
+### Next, Build a Static Website with GitHub Pages
 Setting up GitHub Pages allows you to  host and share your resume through static websites. Etter recommends using static websites as they are easy to install, fast, portable, and provide a level of security as they never crash. Any changes to your resume through your GitHub Pages will be seen almost immediately.  
 1. Click on the `[Settings]` tab in your repository
 2. Scroll down the page until you see **GitHub Pages**
 3. Click on `[Check it out here!]`
 
-### Finally, customize your resume with a **Static Site Generator** such as Jekyll 
+### Finally, Customize your Resume with a **Static Site Generator** such as Jekyll 
 Jekyll is a static site generator that is used to create websites. According to Etter's prinicples, static site generators such as Jekyll are styling tools used to make your documentation look professional.     
 1. Click on `[Choose a theme]`located on your GitHub Pages
 2. Scroll through the different Jekyll themes until you find one that you like for your resume
