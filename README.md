@@ -96,11 +96,12 @@ Jekyll is a static site generator that is used to create websites. According to 
 
 **Well Done! Your resume is now available at HTTP:\\(YourUserName).github.io/**
 
-Depending on the theme you selected, your website should look something like this
+**Depending on the theme you selected, your website should look something like this**
+
 ![gif displaying resume](https://i.imgur.com/Jsq1vhe.gif)
 
 
-If you want to check mine out click [here]( https://brettdowney.github.io/)
+Check out my resume by clicking[here]( https://brettdowney.github.io/)
 
 ---
 
