@@ -2,8 +2,8 @@
 (204) 801-9755 downeyb1@myumanitoba.ca
 
 ## **EDUCATION**
-### **Bachelor of Computer Science Honours (Co-op)** 
-Expected Graduation - April 2023
+### **Bachelor of Computer Science Honours (Co-op)**
+Expected Graduation | April 2023
 University of Manitoba, Winnipeg, MB
 
 ## **INDUSTRY EXPERIENCE**
