@@ -10,8 +10,8 @@ The goal of this document is to instruct and teach computer science students on 
 - [Prerequisites](#prerequisites)
 - [Instructions](#instructions)
 - [More Resources](#more-resources)
-- [Authors and Acknowledgments](authors-and-acknowledgments)
-- [FAQs](faqs)
+- [Authors and Acknowledgments](#authors-and-acknowledgments)
+- [FAQs](#faqs)
 ---
 ## **Documentation Tools**
 Welcome to the *Modern Technical Writing*! This guide will follow Andrew Etter's guidelines for creating software documentation as outlined in his book *Modern Technical Writing*. To understand the tools Etter recommends that are used throughout this guide, below is a description of each tool.   
@@ -125,7 +125,7 @@ Thank you to the following group members for their feedback of this guide:
 ---
 
 
-## FAQS
+## FAQs
 **Why is Mardown better than a word processor?**
  Markdown provides a simple and effective way to publish text online as it is easy to convert to HTML, unlike a word document. With Markdown you can use any text editor for writing and it also allows for the ability to be portable and works on any opertating system. Markdown is vertasile and can be used for: 
  - creating resumes
