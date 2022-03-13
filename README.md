@@ -98,7 +98,7 @@ Jekyll is a static site generator that is used to create websites. According to 
 
 Depending on the theme you selected, your website should look something like this:
 
-![](https://imgur.com/a/6AZe3d5)
+! [](https://imgur.com/a/6AZe3d5)
 
 If you want to check mine out click [here]( https://brettdowney.github.io/)
 
