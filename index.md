@@ -7,7 +7,7 @@ Expected Graduation | April 2023
 University of Manitoba, Winnipeg, MB
 
 ## **INDUSTRY EXPERIENCE**
-### **Programmer/Analyst** | Agriculture and Agri-Food Canada Jan 2022-Present
+### **Programmer/Analyst** | *Agriculture and Agri-Food Canada* Jan 2022-Present
 - Implemented new features and resolved issues to enhance the functionality and efficiency of an agriculture benefits calculator using VBA and Excel
 - Collaborated with stakeholders to assess project requirements and enhance the performance of applications resulting in successful project outcomes
 - Coached and mentored new interns, improving the employee onboarding experience
