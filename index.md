@@ -3,8 +3,8 @@
 
 ## **EDUCATION**
 ### **Bachelor of Computer Science Honours (Co-op)**
+#### University of Manitoba, Winnipeg, MB
 Expected Graduation | April 2023
-University of Manitoba, Winnipeg, MB
 
 ## **INDUSTRY EXPERIENCE**
 ### **Programmer/Analyst** | *Agriculture and Agri-Food Canada*
