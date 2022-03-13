@@ -94,21 +94,20 @@ Jekyll is a static site generator that is used to create websites. According to 
 7. Add a line of code under line 1 by entering `[title: YourName Resume]`
 8. Scroll to the bottom of the page and select `[commit changes]`
 
-**Well Done! Your resume is now available at HTTP:\\(YourUserName).github.io/**
+**Well Done!!! Your resume is now available at http:\\(YourUserName).github.io/**
 
 **Depending on the theme you selected, your website should look something like this**
 
 ![gif displaying resume](https://i.imgur.com/Jsq1vhe.gif)
 
 
-Check out my resume by clicking[here]( https://brettdowney.github.io/)
+Check out my resume by clicking [here]( https://brettdowney.github.io/)
 
 ---
 
 ## More Resources
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet
-)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
 - [GitHub Tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
 - [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter
 - [Setting up Jekyll](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#setting-up-jekyll-)
@@ -122,7 +121,10 @@ Jekyll theme template used: Slate
 
 Thank you to the following group members for their feedback of this guide:
 
-- Chris Rodgers
+- Chris Rogers
+- Xian Mardiros
+- Christian Bera
+- Ashish Ashish
 ---
 
 
