@@ -95,6 +95,8 @@ Jekyll is a static site generator that is used to create websites. According to 
 8. Scroll to the bottom of the page and select `[commit changes]`
 
 **Well Done!!! Your resume is now available at http:\\(YourUserName).github.io/**
+---
+
 
 **Depending on the theme you selected, your website should look something like this**
 
