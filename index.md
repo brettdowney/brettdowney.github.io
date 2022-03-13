@@ -46,7 +46,7 @@ Aug 2020 - Sept 2020
 ### **Ordering Application** | *Human Computer Interaction Group Project* - 2020
 -  Designed numerous prototypes for a desktop food ordering application, implemented with CSS, JavaScript, and HTML
 
-### **Web Server Template** 2020
+### **Web Server Template** -  2020
 -  Created an Apache Web Server implemented using Ktor, includes server rendering using Kotlin as the default template engine
 
 ## **TECHNICAL SKILLS**
