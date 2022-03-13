@@ -45,10 +45,10 @@ University of Manitoba, Winnipeg, MB
 
 ## **TECHNICAL SKILLS**
 
-### **Languages:** Java, Python, C/C++, JavaScript, TypeScript, Kotlin, Groovy, Rust, Processing, Assembly, HTML/CSS
+**Languages:** Java, Python, C/C++, JavaScript, TypeScript, Kotlin, Groovy, Rust, Processing, Assembly, HTML/CSS
 
-### **Frameworks:** Vue, Nodejs, Twig, Pug, JQuery, GraphQL, TypeORM
+**Frameworks:** Vue, Nodejs, Twig, Pug, JQuery, GraphQL, TypeORM
 
-### **Databases:** SQL, PostgreSQL, Firestore, MongoDB, MariaDB, Redis
+**Databases:** SQL, PostgreSQL, Firestore, MongoDB, MariaDB, Redis
 
-### **Technologies/Sofware:** Git, JetBrains IDEs, Eclipse, Homebrew, Visual Studio Code, Scene Builder, Microsoft Office
+**Technologies/Sofware:** Git, JetBrains IDEs, Eclipse, Homebrew, Visual Studio Code, Scene Builder, Microsoft Office
