@@ -94,16 +94,16 @@ Jekyll is a static site generator that is used to create websites. According to 
 7. Add a line of code under line 1 by entering `[title: YourName Resume]`
 8. Select `[commit changes]` at the bottom of the page
 
-**Well Done!!! Visit `[http:\\(YourUserName).github.io/**]` to view your new website hosts your resume. 
+**Well Done!!! Visit `[http:\\(YourUserName).github.io/**]` to view your new website hosts your resume.** 
 ---
 
 
-**Depending on the theme you selected, your website should look something like this**
+**Depending on the theme you selected, your website should look something like this.**
 
 ![gif displaying resume](https://i.imgur.com/Jsq1vhe.gif)
 
 
-Check out my resume by clicking [here]( https://brettdowney.github.io/)
+Click [here]( https://brettdowney.github.io/) to check out my resume. 
 
 ---
 
@@ -119,7 +119,7 @@ Check out my resume by clicking [here]( https://brettdowney.github.io/)
 ## Authors and Acknowledgments
 Guide written by [Brett Downey](https://github.com/brettdowney/brettdowney.github.io)
 
-Jekyll theme template used: Slate
+Jekyll theme template used: **Slate**
 
 Thank you to the following group members for their feedback of this guide:
 
