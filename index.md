@@ -1,5 +1,5 @@
 
-(204) 801-9755   E:downeyb1@myumanitoba.ca 
+(204) 801-9755 | downeyb1@myumanitoba.ca 
 
 ## **EDUCATION**
 ### **Bachelor of Computer Science Honours (Co-op)**
