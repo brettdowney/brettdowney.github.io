@@ -1,5 +1,6 @@
 # Brett Downey
 (204) 801-9755 | downeyb1@myumanitoba.ca
+
 ---
 
 ## **EDUCATION**
