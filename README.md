@@ -61,7 +61,7 @@ This is where you are going to store and host your resume. GitHub provides users
 1. Log in to your [GitHub account](https://github.com/login)
 2. Click on the `[+]` button in the upper right-hand corner of the page 
 3. Select `[New repository]`from the drop down menu
-4. Enter `[YourUserName].github.io` for the repository name (this must match the user name that you used to create your account)
+4. Enter `[YourUserName].github.io` for the repository name (this must match the user name that you used to create your account). For example, if your username is `[dragon]`, then enter `[dragon.github.io]`
 5. Select `[Public]`
 6. Click on `[Create repository]`
 
@@ -85,16 +85,16 @@ Setting up GitHub Pages allows you to  host and share your resume through static
 
 ### Finally, Customize your Resume with a **Static Site Generator** such as Jekyll 
 Jekyll is a static site generator that is used to create websites. According to Etter's prinicples, static site generators such as Jekyll are styling tools used to make your documentation look professional.     
-1. Click on `[Choose a theme]`located on your GitHub Pages
+1. Click `[Choose a theme]`located on your GitHub Pages
 2. Scroll through the different Jekyll themes until you find one that you like for your resume
 3. Click on the `[Select Theme]` button to select the desired theme
 4. Select the `[Code]` tab in your GitHub Pages; there should be a file called `[_config.yml]`
 5. Click on `[_config.yml]`
 6. Click on the `[pencil icon]` located on the right hand-side of the page
 7. Add a line of code under line 1 by entering `[title: YourName Resume]`
-8. Scroll to the bottom of the page and select `[commit changes]`
+8. Select `[commit changes]` at the bottom of the page
 
-**Well Done!!! Your resume is now available at http:\\(YourUserName).github.io/**
+**Well Done!!! Visit `[http:\\(YourUserName).github.io/**]` to view your new website hosts your resume. 
 ---
 
 
