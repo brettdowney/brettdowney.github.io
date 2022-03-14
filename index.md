@@ -1,5 +1,4 @@
 # Brett Downey
-
 (204) 801-9755 | downeyb1@myumanitoba.ca
 ---
 
@@ -7,7 +6,6 @@
 ### **Bachelor of Computer Science Honours (Co-op)**
 #### University of Manitoba, Winnipeg, MB
 Expected Graduation | April 2023
----
 
 ## **INDUSTRY EXPERIENCE**
 ### **Programmer/Analyst** | *Agriculture and Agri-Food Canada*
@@ -37,7 +35,6 @@ Jan 2021 - April 2021
 Aug 2020 - Sept 2020
 -  Planned, designed, and implemented a new intranet software catalogue, integrating various back-end services and databases 
 -  Wrote and maintained extensive software documentation for the implemented website
----
 
 ## **PROJECTS**
 
@@ -52,7 +49,6 @@ Aug 2020 - Sept 2020
 
 ### **Web Server Template** -  2020
 -  Created an Apache Web Server implemented using Ktor, includes server rendering using Kotlin as the default template engine
----
 
 ## **TECHNICAL SKILLS**
 
