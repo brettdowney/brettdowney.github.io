@@ -41,7 +41,7 @@ Welcome to the *Modern Technical Writing*! This tutorial will follow Andrew Ette
 
 ## **Prerequisites**
 
-This tutorial is built using the technical dcoumentation tools and practices described in Andrew Etter's book *Modern Technical Writing*. See the [More Resources](#more-resources) section below if you would like to learn more about these tools. 
+This tutorial is built using the technical documentation tools and practices described in Andrew Etter's book *Modern Technical Writing*. See the [More Resources](#more-resources) section below if you want to learn more about these tools. 
 
  **Before proceeding, you will require the following tools**:
 1. A current, up-to-date resume formatted in **Markdown**. Visit this [site](https://www.markdownguide.org/getting-started/) for information about Markdown and how to format your resume.  
@@ -57,7 +57,7 @@ This tutorial is built using the technical dcoumentation tools and practices des
 **Follow the steps below to learn how to host and format your resume on GitHub Pages.**
 
 ### Create a GitHub Repository
-This is where you are going to store and host your resume. GitHub provides users with a platform to manage not only their projects but also their text documentation. In the book Modern Technical Writing, Etter recommends using a distributed version control systems like Git for the storage of documentation, keeping track of changes to your project, and for the ability to work offline. 
+This is where you are going to store and host your resume. GitHub provides users with a platform to manage not only their projects but also their text documentation. In the book Modern Technical Writing, Etter recommends using distributed version control systems like Git for the storage of documentation, keeping track of changes to your project, and for the ability to work offline. 
 1. Log in to your [GitHub account](https://github.com/login)
 2. Click on the `[+]` button in the upper right-hand corner of the page 
 3. Select `[New repository]`from the drop down menu
@@ -132,7 +132,7 @@ Thank you to the following group members for their feedback of this guide:
 
 ## FAQs
 **Why is Mardown better than a word processor?**
- Markdown provides a simple and effective way to publish text online as it is easy to convert to HTML, unlike a word document. With Markdown you can use any text editor for writing and it also allows for the ability to be portable and works on any opertating system. Markdown is vertasile and can be used for: 
+ Markdown provides a simple and effective way to publish text online as it is easy to convert to HTML, unlike a word document. With Markdown, you can use any text editor for writing and it also allows for the ability to be portable and works on any operating system. Markdown is vesatile and can be used for: 
  - creating resumes
  - writing emails
  - publishing books
