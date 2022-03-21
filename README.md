@@ -26,7 +26,7 @@ This tutorial is built using the technical documentation tools and practices des
 
  **Static Site Generator**
 
- - A [Static Site Generator](https://www.cloudflare.com/en-ca/learning/performance/static-site generator/#:~:text=A%20static%20site%20generator%20is,to%20users%20ahead%20of%20time.) is a tool used to manage web content and create websites.    
+ - A [Static Site Generator](https://www.cloudflare.com/en-ca/learning/performance/static-site-generator/#:~:text=A%20static%20site%20generator%20is,to%20users%20ahead%20of%20time.) is a tool used to manage web content and create websites.   
 
  **GitHub**
 
@@ -142,5 +142,5 @@ Thank you to the following group members for their feedback of this guide:
  - creating websites
  - writing technical documentation. 
 
- **Why is my resume not showing up?**
- If you resume is not showing up check to ensure your repository is named correcty (YourUserName.github.io). Also, try waiting a few minutes and refreshing, sometimes it takes a few mintues to appear. 
+ **Why is my resume not showing up?**  
+ If you resume is not showing up check to ensure your repository is named correcty (YourUserName.github.io). Also, try waiting a few minutes and refreshing, sometimes it takes a few mintues to appear.    
