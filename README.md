@@ -43,7 +43,6 @@ This tutorial is built using the technical documentation tools and practices des
 
 #### Before proceeding, you will require the following tools: 
 
- **Before proceeding, you will require the following tools**:
 1. A current **Resume** formatted in **Markdown**. Visit this [site](https://www.markdownguide.org/getting-started/) for information about Markdown and go [here](https://www.markdownguide.org/basic-syntax/) to learn about formatting your resume using Markdown.   
     
 2.  A **Markdown Editor** (recommended, but not required). Visit this [here](https://www.oberlo.ca/blog/markdown-editors) for a list of options based on your operating system. 
