@@ -19,7 +19,7 @@ Jan 2022 - Present
 Sept 2021 - Jan 2022
 -  Evaluated and graded assignments, exams, and projects in multi-level computer science courses, while providing written feedback to students
 
-### **Programmer/Analyst(Co-op)** | *Agriculture and Agri-Food Canada*
+### **Programmer/Analyst (Co-op)** | *Agriculture and Agri-Food Canada*
 Sept 2021 - Dec 2021
 -  Designed and implemented new features and resolved bugs in a knowledge and incident management program using Grails and Vue
 -  Developed a farm income-expenditure database program using Java and JasperReports
