@@ -39,16 +39,16 @@ Aug 2020 - Sept 2020
 
 ## **PROJECTS**
 
-### **SellOff** | *Software Engineering II Group Project* - 2022
+### **SellOff** | *Software Engineering II Group Project* 
 -  Developed a marketplace platform designed to search for products and services using VUD.js, Quasar, Node, and Express.js
 
-### **Flashcard Study Helper** | *Software Engineering I Group Project* - 2021
+### **Flashcard Study Helper** | *Software Engineering I Group Project* 
 -  Took a leadership role in developing a mobile and desktop application designed to help students study course information, including an easy-to-use flashcard creator, editor, and quiz generator to test the user's knowledge
 
-### **Ordering Application** | *Human Computer Interaction Group Project* - 2020
+### **Ordering Application** | *Human Computer Interaction Group Project* 
 -  Designed numerous prototypes for a desktop food ordering application, implemented with CSS, JavaScript, and HTML
 
-### **Web Server Template** -  2020
+### **Web Server Template** 
 -  Created an Apache Web Server implemented using Ktor, includes server rendering using Kotlin as the default template engine
 
 ## **TECHNICAL SKILLS**
