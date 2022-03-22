@@ -24,9 +24,9 @@ This tutorial is built using the technical documentation tools and practices des
 
  - A [Markdown Editor](https://www.oberlo.ca/blog/markdown-editors) is a writing tool used to convert text to HTML.
 
- **Static Site Generator**
+ **Jekyll**
 
- - A [Static Site Generator](https://www.cloudflare.com/en-ca/learning/performance/static-site-generator/#:~:text=A%20static%20site%20generator%20is,to%20users%20ahead%20of%20time.) is a tool used to manage web content and create websites.   
+ - [Jekyll](https://jekyllrb.com/) is a static site generator used to manage web content and create websites.   
 
  **GitHub**
 
@@ -60,7 +60,7 @@ See the [More Resources](#more-resources) section below if you want to learn mor
 **Follow the steps below to learn how to host and format your resume on GitHub Pages.**
 
 ### Create a GitHub Repository
-This is where you are going to store and host your resume. GitHub provides users with a platform to manage their projects and also their text documentation. In the *Modern Technical Writing*, Etter recommends using a distributed version control systems like Git. This allows for the storage of your text documentation in the same repository as your source code. It is also a benefit for when you want to update your project or have other developers contribute to it or review. 
+This is where you are going to store and host your resume. GitHub provides users with a platform to manage their projects and also their text documentation. In *Modern Technical Writing*, Etter recommends using a distributed version control systems like Git. This allows for the storage of your text documentation in the same repository as your source code. It is also a benefit for when you want to update your project or have other developers contribute to it or review. 
 1. Log in to your [GitHub account](https://github.com/login)
 2. Click on the `[+]` button in the upper right-hand corner of the page 
 3. Select `[New repository]`from the drop down menu
@@ -76,9 +76,8 @@ Markdown is a lightweight markup language and is one of the documentation tools 
 9. Enter `[index.md]` in the box showing `[Name your file]`  
 10. Press enter  
 11. Copy and Paste your saved Markdown- formatted resume into the blank text area  
-12. Select `[Commit new file]`, which is located at the bottom right of the page
-#### To verify and view your Markdown Resume try this:  
-13. Click on the `[index.md]` in your repository **OR** Enter `[http://YourUserName.github.io/]`
+12. Select `[Commit new file]`, which is located at the bottom right of the page  
+13. Click on the `[index.md]` in your repository to verify and view your **Markdown Resume**  
 
 ### Next, Build a Static Website with GitHub Pages
 Setting up GitHub Pages allows you to  host and share your resume through static websites. Etter recommends using static websites as they are easy to install, fast, portable, and provide a level of security as they never crash. Also, any changes to your resume through your GitHub Pages will be seen almost immediately.  
