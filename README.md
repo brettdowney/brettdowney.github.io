@@ -45,7 +45,7 @@ This tutorial is built using the technical documentation tools and practices des
 
 1. A current **Resume** formatted in **Markdown**. Visit this [site](https://www.markdownguide.org/getting-started/) for information about Markdown and go [here](https://www.markdownguide.org/basic-syntax/) to learn about formatting your resume using Markdown.   
     
-2.  A **Markdown Editor** (recommended, but not required). Visit this [here](https://www.oberlo.ca/blog/markdown-editors) for a list of options based on your operating system. 
+2.  A **Markdown Editor** (recommended, but not required). Visit this [here](https://www.oberlo.ca/blog/markdown-editors) for a list of options based on your operating system.  
    - I personally used [Visual Studio Code](https://code.visualstudio.com/), which is a free open source Markdown desktop editor. For those new to Markdown and do not want to download anything try [Dillinger](https://dillinger.io/), which is an online editor with a live preview.
 
 3. An account on **GitHub**, available [here](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fnew). For those new to GitHub, here is a [quick tutorial](https://www.wikihow.com/Create-an-Account-on-GitHub) on how to create an account.
@@ -70,31 +70,31 @@ This is where you are going to store and host your resume. GitHub provides users
 
 ### Next, Add your Markdown Formatted Resume to GitHub
 Markdown is one of the documentation tools recommended in Etter's book. It provides users with a simple and easy way to write and format text documents that can be published to the web in HTML. Once you try Markdown, you will never want to use *Word* again. 
-1. Click on `[Addfile]`
-2. Select `[Create new file]`,located under the drop-down menu
-3. Enter `[index.md]` in the box showing `[Name your file]`
-4. Press enter
-5. Copy and Paste your saved Markdown- formatted resume into the blank text area
-6. Select `[Commit new file]`, which is located at the bottom right of the page
+7. Click on `[Addfile]`
+8. Select `[Create new file]`,located under the drop-down menu
+9. Enter `[index.md]` in the box showing `[Name your file]`
+10. Press enter
+11. Copy and Paste your saved Markdown- formatted resume into the blank text area
+12. Select `[Commit new file]`, which is located at the bottom right of the page
 #### To Verify and View your Markdown Resume try this:
-7. Click on the `[index.md]` in your repository **OR** Enter `[http://YourUserName.github.io/]`
+13. Click on the `[index.md]` in your repository **OR** Enter `[http://YourUserName.github.io/]`
 
 ### Next, Build a Static Website with GitHub Pages
 Setting up GitHub Pages allows you to  host and share your resume through static websites. Etter recommends using static websites as they are easy to install, fast, portable, and provide a level of security as they never crash. Any changes to your resume through your GitHub Pages will be seen almost immediately.  
-1. Click on the `[Settings]` tab in your repository
-2. Scroll down the page until you see **GitHub Pages**
-3. Click on `[Check it out here!]`
+14. Click on the `[Settings]` tab in your repository
+15. Scroll down the page until you see **GitHub Pages**
+16. Click on `[Check it out here!]`
 
 ### Finally, Customize your Resume with a **Static Site Generator** such as Jekyll 
 Jekyll is a static site generator that is used to create websites. According to Etter's prinicples, static site generators such as Jekyll are styling tools used to make your documentation look professional.     
-1. Click `[Choose a theme]`located on your GitHub Pages
-2. Scroll through the different Jekyll themes until you find one that you like for your resume
-3. Click on the `[Select Theme]` button to select the desired theme
-4. Select the `[Code]` tab in your GitHub Pages; there should be a file called `[_config.yml]`
-5. Click on `[_config.yml]`
-6. Click on the `[pencil icon]` located on the right hand-side of the page
-7. Add a line of code under line 1 by entering `[title: YourName Resume]`
-8. Select `[commit changes]` at the bottom of the page
+17. Click `[Choose a theme]`located on your GitHub Pages
+18. Scroll through the different Jekyll themes until you find one that you like for your resume
+19. Click on the `[Select Theme]` button to select the desired theme
+20. Select the `[Code]` tab in your GitHub Pages; there should be a file called `[_config.yml]`
+21. Click on `[_config.yml]`
+22. Click on the `[pencil icon]` located on the right hand-side of the page
+23. Add a line of code under line 1 by entering `[title: YourName Resume]`
+24. Select `[commit changes]` at the bottom of the page
 
 #### Congratulations!!! Your resume in now available at `[http:\\(YourUserName).github.io/**]`  
 ---
