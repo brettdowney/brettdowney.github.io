@@ -100,7 +100,7 @@ Jekyll is a static site generator that is used to create websites. According to 
 
   
 
-#### Congratulations!!! Your resume in now available at `[https://(YourUserName).github.io]`  
+#### Congratulations!!! Your resume is now available at `[https://(YourUserName).github.io]`  
 ---
 
 
