@@ -46,7 +46,7 @@ This tutorial is built using the technical documentation tools and practices des
 1. A current **Resume** formatted in **Markdown**. Visit this [site](https://www.markdownguide.org/getting-started/) for information about Markdown and click [here](https://www.markdownguide.org/basic-syntax/) to learn about formatting your resume using Markdown.   
     
 2.  A **Markdown Editor** (recommended, but not required). Visit [here](https://www.oberlo.ca/blog/markdown-editors) for a list of options based on your operating system.  
-   - I personally used [Visual Studio Code](https://code.visualstudio.com/), which is a free open source Markdown desktop editor. For those new to Markdown and do not want to download anything try [Dillinger](https://dillinger.io/), which is an online editor with a live preview.
+    - I personally used [Visual Studio Code](https://code.visualstudio.com/), which is a free open source Markdown desktop editor. For those new to Markdown and do not want to download anything try [Dillinger](https://dillinger.io/), which is an online editor with a live preview.
 
 3. An account on **GitHub**, available [here](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fnew). For those new to GitHub, here is a [quick tutorial](https://www.wikihow.com/Create-an-Account-on-GitHub) on how to create an account.
 
@@ -101,7 +101,7 @@ Jekyll is a static site generator that is used to create websites. According to 
 
   
 
-#### Congratulations!!! Your resume in now available at `[http:\\(YourUserName).github.io/**]`  
+#### Congratulations!!! Your resume in now available at `[https://(YourUserName).github.io/]`  
 ---
 
 
@@ -138,8 +138,8 @@ Thank you to the following group members for their feedback of this guide:
 
 
 ## FAQs
-**Why is Mardown better than a word processor?**  
+**Why is Markdown better than a word processor?**  
  Markdown provides a simple and effective way to publish text online as it is easy to convert to HTML, unlike a word document. With Markdown, you can use any text editor for writing and it also allows for the ability to be portable and works on any operating system. Markdown is vesatile and can be used for creating resumes, writing emails, publishing books, or writing technical documentation.   
 
  **Why is my resume not showing up?**  
- If you resume is not showing up check to ensure your repository is named correcty (YourUserName.github.io). Also, try waiting a few minutes and refreshing, sometimes it takes a few mintues to appear.    
+ If you resume is not showing up check to ensure your repository is named correcty (YourUserName.github.io). Also, try waiting a few minutes and refreshing, sometimes it takes a few minutes to appear.    
