@@ -2,7 +2,7 @@
 ---
 
 ## **Purpose**  
-The goal of this document is to provide instructions on how to host and format a Markdown resume on GitHub Pages using the principles and tools in Andrew Etter's book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS). It is assumed that the reader has no prior experience with Markdown and GitHub. 
+The goal of this document is to provide instructions on how to host and format a resume on GitHub Pages using the principles and tools in Andrew Etter's book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS). It is assumed that the reader has no prior experience with Markdown and GitHub. 
 
 ---
 ## **Table of Contents**
