@@ -140,4 +140,4 @@ Thank you to the following group members for their feedback of this guide:
  Markdown provides a simple and effective way to publish text online as it is easy to convert to HTML, unlike a word document. With Markdown, you can use any text editor for writing and it also allows for the ability to be portable and works on any operating system. Markdown is vesatile and can be used for creating resumes, writing emails, publishing books, or writing technical documentation.   
 
  **Why is my resume not showing up?**  
- If you resume is not showing up check to ensure your repository is named correcty (YourUserName.github.io). Also, try waiting a few minutes and refreshing, sometimes it takes a few minutes to appear.    
+ If your resume is not showing up check to ensure your repository is named correcty (YourUserName.github.io). Also, try waiting a few minutes and refreshing, sometimes it takes a few minutes to appear.    
