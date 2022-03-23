@@ -75,9 +75,9 @@ Markdown is a lightweight markup language and is one of the documentation tools 
 8. Select `[Create new file]`,located under the drop-down menu  
 9. Enter `[index.md]` in the box showing `[Name your file]`  
 10. Press enter  
-11. Copy and Paste your saved Markdown- formatted resume into the blank text area  
+11. Copy and Paste your saved Markdown formatted resume into the blank text area  
 12. Select `[Commit new file]`, which is located at the bottom right of the page  
-13. Click on the `[index.md]` in your repository to verify and view your **Markdown Resume**  
+13. Click on the `[index.md]` in your repository to verify and view your Markdown formatted resume  
 
 ### Next, Build a Static Website with GitHub Pages
 Setting up GitHub Pages allows you to  host and share your resume through static websites. Etter recommends using static websites as they are easy to install, fast, portable, and provide a level of security as they never crash. Also, any changes to your resume through your GitHub Pages will be seen almost immediately.  
