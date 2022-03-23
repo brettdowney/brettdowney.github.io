@@ -131,7 +131,6 @@ Thank you to the following group members for their feedback of this guide:
 
 - Chris Rogers
 - Xian Mardiros
-- Christian Bera
 - Ashish Ashish
 ---
 
